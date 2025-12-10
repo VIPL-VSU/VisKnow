@@ -1,0 +1,38 @@
+{
+    "antelope": [
+        "antelope_10001.jpg",
+        "antelope_10002.jpg",
+        "antelope_10003.jpg",
+        "antelope_10005.jpg",
+        "antelope_10007.jpg",
+        "antelope_10010.jpg",
+        "antelope_10011.jpg",
+        "antelope_10012.jpg",
+        "antelope_10014.jpg",
+        "antelope_10015.jpg"
+    ],
+    "elephant": [
+        "elephant_10001.jpg",
+        "elephant_10003.jpg",
+        "elephant_10004.jpg",
+        "elephant_10005.jpg",
+        "elephant_10006.jpg",
+        "elephant_10010.jpg",
+        "elephant_10012.jpg",
+        "elephant_10013.jpg",
+        "elephant_10015.jpg",
+        "elephant_10018.jpg"
+    ],
+    "leopard": [
+        "leopard_10001.jpg",
+        "leopard_10002.jpg",
+        "leopard_10003.jpg",
+        "leopard_10004.jpg",
+        "leopard_10005.jpg",
+        "leopard_10006.jpg",
+        "leopard_10007.jpg",
+        "leopard_10008.jpg",
+        "leopard_10009.jpg",
+        "leopard_10010.jpg"
+    ]
+}
